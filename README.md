@@ -1,2 +1,2 @@
-Welcome to the CTE Catalog!
-This is for the EIC.
+Welcome!
+This is the CTE Catalog for the EIC building at Franklin High School!
