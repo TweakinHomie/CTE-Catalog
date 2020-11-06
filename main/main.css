@@ -8,6 +8,5 @@
 }
 
 .window-size{
-        width: 100vh;
-    height: 100vh;
+        display: inline
 }
